@@ -1,0 +1,12 @@
+# IMPORTANTE: Ative caso esteja usando o mesmo plugin no Bungeecord
+bungeecord: false
+roles:
+  master:
+    prefix: '&6[Master] '
+    permission: 'role.master'
+  vip:
+    prefix: '&a[VIP] '
+    permission: 'role.vip'
+  membro:
+    prefix: '&7'
+    permission: ''

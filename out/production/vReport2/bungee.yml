@@ -1,0 +1,6 @@
+name: vReports
+version: 1.1
+author: VootyTeam
+website: https://vootytools.xyz
+
+main: br.vootytools.teamdev.reports.bungee.Main
