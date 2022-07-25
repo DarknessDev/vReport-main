@@ -1,0 +1,11 @@
+database:
+# Tipos de bancos de dados disponíveis atualmente: MySQL, SQLite
+  tipo: 'SQLite'
+  sqlite:
+    arquivo: plugins/vReports/reports.db
+  mysql:
+    host: 'localhost'
+    porta: '3306'
+    nome: 'server'
+    usuario: 'root'
+    senha: ''
